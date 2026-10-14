@@ -1,0 +1,32 @@
+# Compiled class files
+**/target/
+*.class
+
+# Log files
+*.log
+
+# Package Directories
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Local env files
+**/.env
+**/.env.*
+!**/.env.example
+*local.properties
+*-local.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Package zip files
+*.zip
